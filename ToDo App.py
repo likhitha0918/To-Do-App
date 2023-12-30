@@ -155,7 +155,7 @@ class ToDo:
 def main():
 	root = Tk()
 	root.title("ToDo Application")
-	root.iconbitmap("icon/todo.ico")
+	root.iconbitmap("todo.ico")
 	root.resizable(0, 0)
 	root.config(bg = "black")
 
